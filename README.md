@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning SQL databases, spring boot and data structures.
+🌱 I’m currently learning SQL database and data structures.
 I'm looking to have the necessary skills to start working as a web developer using spring boot, java and SQL.
 
 
