@@ -1,6 +1,5 @@
 ### Hi there 👋
-🌱 Python Developer
-I handle technologies as Django and Flask.
+🌱 Python Developer, I handle technologies as Django and Flask.
 
 
 <!--
