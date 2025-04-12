@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning SQL database and data structures.
-I'm looking to have the necessary skills to start working as a web developer
+🌱 Python Developer
+I handle technologies as Django and Flask.
 
 
 <!--
