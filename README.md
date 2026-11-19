@@ -9,13 +9,15 @@
 
 <br/>
 
-<a href="https://github.com/OscarLP1">
-  <img src="https://komarev.com/ghpvc/?username=OscarLP1&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-38BDF8?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
+
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-22C55E?style=for-the-badge" alt="Open to Work" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/oscar-lozano-586907193/">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-38BDF8?style=for-the-badge&logo=code&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-22C55E?style=for-the-badge" />
 
 </div>
 
@@ -33,7 +35,7 @@ const oscar = {
     "Java & Spring Boot",
     "Python",
     "JavaScript & TypeScript",
-    "React",
+    "React & Astro",
     "PostgreSQL"
   ],
 
@@ -52,13 +54,13 @@ I'm a Systems Engineer from Colombia 🇨🇴, passionate about creating softwar
 
 I enjoy building modern web applications, developing backend services, working with databases, and automating repetitive processes.
 
-Whether it's developing a REST API, creating an interactive interface, or deploying an application to a Linux server, I'm always looking for ways to learn and build better solutions.
+From designing REST APIs to deploying applications on Linux servers, I like being involved in every stage of software development.
 
-- 🚀 Building web applications and backend systems
+- 🚀 Building modern web applications and backend systems
 - ☕ Working with Java, Spring Boot, and REST APIs
-- 🐍 Developing automation solutions with Python
+- 🐍 Creating automation solutions with Python
 - ☁️ Exploring cloud technologies and software architecture
-- 🤖 Using AI-powered tools to improve development workflows
+- 🤖 Leveraging AI-powered development tools
 - 🌎 Open to remote opportunities and international collaboration
 
 ---
@@ -69,19 +71,19 @@ Whether it's developing a REST API, creating an interactive interface, or deploy
 
 ### 💻 Languages & Web Technologies
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" alt="Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,astro,tailwind&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,astro,tailwind&theme=dark" alt="Frontend" />
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" alt="Backend" />
 
 ### 🗄️ Databases
 
@@ -93,7 +95,7 @@ Whether it's developing a REST API, creating an interactive interface, or deploy
 
 ### 🔧 Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" alt="Development Tools" />
 
 ### 🤖 Automation
 
@@ -113,7 +115,7 @@ Whether it's developing a REST API, creating an interactive interface, or deploy
 
 ### 🌐 Web Development
 
-Building modern, responsive, and interactive web applications with a focus on performance and user experience.
+Building modern, responsive, and interactive web applications focused on performance and user experience.
 
 **React · Astro · Tailwind CSS**
 
@@ -156,19 +158,19 @@ Deploying, configuring, and maintaining applications on cloud platforms and Linu
 
 ### 🌐 Web Applications
 
-Developing responsive websites and applications using modern frontend technologies, integrating APIs, content management systems, and third-party services.
+Developing responsive websites and applications using modern frontend technologies, integrating REST APIs, content management systems, and third-party services.
 
 ### ⚙️ Backend Systems
 
-Building backend applications with Java and Spring Boot, including RESTful services, database integration, and application deployment.
+Building backend applications with Java and Spring Boot, including RESTful services, database integration, authentication, and deployment.
 
 ### 🤖 Automation Solutions
 
-Developing automated workflows using Python, Selenium, and Power Automate to reduce manual work and improve efficiency.
+Developing automated workflows using Python, Selenium, and Power Automate to reduce manual tasks and improve operational efficiency.
 
 ### 🖥️ Server & Infrastructure
 
-Working with Linux servers, Nginx reverse proxies, PostgreSQL databases, and deployment configurations.
+Configuring Linux servers, Nginx reverse proxies, PostgreSQL databases, and application deployment environments.
 
 ---
 
@@ -188,33 +190,21 @@ Working with Linux servers, Nginx reverse proxies, PostgreSQL databases, and dep
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects, learning new technologies, and exploring new opportunities.
+I'm always interested in collaborating on exciting projects, sharing ideas, and exploring new opportunities.
 
 <br/>
 
-<a href="https://github.com/OscarLP1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<!-- Replace with your LinkedIn URL and uncomment:
-
-<a href="https://www.linkedin.com/in/YOUR_PROFILE">
+<a href="https://www.linkedin.com/in/oscar-lozano-586907193/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
--->
+<br/><br/>
 
-<!-- Replace with your email and uncomment:
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
--->
+**Let's build something awesome together! 🚀**
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
