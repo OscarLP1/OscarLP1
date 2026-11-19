@@ -3,9 +3,9 @@
 
 # Hey, I'm Oscar! 👋
 
-### 💻 Systems Engineer | Full Stack Developer | Problem Solver
+### 💻 Systems Engineer | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Turning+ideas+into+real+products;Code.+Create.+Automate.;Always+learning+something+new." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+things+for+the+web+%F0%9F%9A%80;Turning+ideas+into+real+products;Code.+Create.+Automate.;Always+learning+something+new." alt="Typing Animation" />
 
 <br/>
 
@@ -28,48 +28,78 @@ const oscar = {
   location: "Colombia 🇨🇴",
   education: "Systems Engineering",
   role: "Full Stack Developer",
+
+  mainStack: [
+    "Java & Spring Boot",
+    "Python",
+    "JavaScript & TypeScript",
+    "React",
+    "PostgreSQL"
+  ],
+
   interests: [
     "Software Engineering",
-    "Backend Architecture",
+    "Backend Development",
     "Automation",
     "AI & Cloud Technologies"
   ],
-  currentlyLearning: "Always something new",
+
   philosophy: "Build. Learn. Improve. Repeat."
 };
 ```
 
-I'm a Systems Engineer from Colombia who enjoys turning complex problems into simple, scalable solutions.
+I'm a Systems Engineer from Colombia 🇨🇴, passionate about creating software that solves real-world problems.
 
-From building interactive web experiences to designing APIs and automating repetitive workflows, I love creating software that makes a difference.
+I enjoy building modern web applications, developing backend services, working with databases, and automating repetitive processes.
 
-- 🚀 Building modern web applications and backend systems
-- 🧠 Exploring AI, software architecture, and automation
-- ☁️ Working with cloud platforms and Linux infrastructure
-- 🤝 Open to collaboration and remote opportunities
-- ⚡ Always experimenting with new ideas and technologies
+Whether it's developing a REST API, creating an interactive interface, or deploying an application to a Linux server, I'm always looking for ways to learn and build better solutions.
+
+- 🚀 Building web applications and backend systems
+- ☕ Working with Java, Spring Boot, and REST APIs
+- 🐍 Developing automation solutions with Python
+- ☁️ Exploring cloud technologies and software architecture
+- 🤖 Using AI-powered tools to improve development workflows
+- 🌎 Open to remote opportunities and international collaboration
 
 ---
 
-## 🧰 My Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages & Web Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" alt="Programming Languages" />
 
-### Frontend
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,astro,tailwind,vite&theme=dark" alt="Frontend" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-### Backend & Databases
+### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,postgres,prisma,supabase&theme=dark" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=react,astro,tailwind&theme=dark" alt="Frontend Technologies" />
 
-### Tools & Infrastructure
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel,cloudflare,vscode&theme=dark" alt="Tools and Infrastructure" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" alt="Backend Technologies" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="Databases" />
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,vercel,cloudflare&theme=dark" alt="Infrastructure" />
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
+
+### 🤖 Automation
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
 
 </div>
 
@@ -83,30 +113,38 @@ From building interactive web experiences to designing APIs and automating repet
 
 ### 🌐 Web Development
 
-Building modern, responsive, and high-performance web applications with great user experiences.
+Building modern, responsive, and interactive web applications with a focus on performance and user experience.
+
+**React · Astro · Tailwind CSS**
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Engineering
 
-Designing REST APIs, authentication systems, database architectures, and scalable backend services.
+Developing REST APIs, authentication systems, and database-driven applications.
+
+**Java · Spring Boot · PostgreSQL**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Automation
+### 🤖 Process Automation
 
-Creating solutions that automate repetitive tasks, streamline processes, and improve productivity.
+Creating solutions that eliminate repetitive tasks, streamline workflows, and improve productivity.
+
+**Python · Selenium · Power Automate**
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Deployment & Infrastructure
 
-Deploying and maintaining applications using cloud platforms, Linux servers, and modern development tools.
+Deploying, configuring, and maintaining applications on cloud platforms and Linux servers.
+
+**Linux · Nginx · Vercel · Cloudflare**
 
 </td>
 </tr>
@@ -114,21 +152,23 @@ Deploying and maintaining applications using cloud platforms, Linux servers, and
 
 ---
 
-## 💡 Featured Work
+## 💡 Projects & Experience
 
-<div align="center">
+### 🌐 Web Applications
 
-| 🌐 Web Experiences | ⚙️ Backend Systems |
-|:---:|:---:|
-| Responsive websites, interactive interfaces, and content-driven platforms. | REST APIs, authentication, and database-driven applications. |
-| **React · Astro · Tailwind** | **NestJS · Spring Boot · PostgreSQL** |
+Developing responsive websites and applications using modern frontend technologies, integrating APIs, content management systems, and third-party services.
 
-| 🤖 Automation | ☁️ Infrastructure |
-|:---:|:---:|
-| Workflow automation and custom integrations that solve real problems. | Cloud deployments, server configuration, and application hosting. |
-| **Python · Selenium · Power Automate** | **Linux · Nginx · Vercel** |
+### ⚙️ Backend Systems
 
-</div>
+Building backend applications with Java and Spring Boot, including RESTful services, database integration, and application deployment.
+
+### 🤖 Automation Solutions
+
+Developing automated workflows using Python, Selenium, and Power Automate to reduce manual work and improve efficiency.
+
+### 🖥️ Server & Infrastructure
+
+Working with Linux servers, Nginx reverse proxies, PostgreSQL databases, and deployment configurations.
 
 ---
 
@@ -136,13 +176,11 @@ Deploying and maintaining applications using cloud platforms, Linux servers, and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OscarLP1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Oscar's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OscarLP1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Statistics" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarLP1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 
 </div>
-
-> Note: GitHub statistics are provided by a third-party service and may occasionally be unavailable.
 
 ---
 
@@ -150,20 +188,28 @@ Deploying and maintaining applications using cloud platforms, Linux servers, and
 
 <div align="center">
 
+I'm always open to collaborating on interesting projects, learning new technologies, and exploring new opportunities.
+
+<br/>
+
 <a href="https://github.com/OscarLP1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!-- Add your actual LinkedIn profile URL to enable this badge.
+<!-- Replace with your LinkedIn URL and uncomment:
+
 <a href="https://www.linkedin.com/in/YOUR_PROFILE">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 -->
 
-<!-- Add your email address to enable this badge.
+<!-- Replace with your email and uncomment:
+
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 -->
 
 </div>
